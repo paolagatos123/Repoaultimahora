@@ -16,7 +16,7 @@ Abrí cmd y lo ejecute en python
 
 ![Screenshot_19](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/0a43089b-5837-4900-972c-26239f500147)
 
-LO ABRI EN VS CODE DESDE LA CARPETA Y EJECUTE EL CODIGO
+LO ABRI EN VISUAL STUDIO CODE DESDE LA CARPETA Y EJECUTE EL CODIGO
 
 ![Screenshot_21](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/a9e62a02-e7a3-46ad-9387-1da6d90d7585)
 
