@@ -1,5 +1,5 @@
 # Repoaultimahora 
-Escribí en bloc de notas el código.
+Escribí en blocK de notas el código.
 
 ![Screenshot_16](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/46f97dfb-d21d-4fd4-ba30-115bb1dde0ff)
 
