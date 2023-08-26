@@ -1,5 +1,5 @@
 # Repoaultimahora 
-Escribí en blocK de notas el código.
+ESCRIBI EN BLOC DE NOTAS EL CODIGO.
 
 ![Screenshot_16](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/46f97dfb-d21d-4fd4-ba30-115bb1dde0ff)
 
@@ -8,11 +8,13 @@ LO GUARDE EN FORMATO PY DESDE LA CARPETA QUE CREE PARA LOS REPOSITORIOS Y LUEGO 
 
 ![Screenshot_17](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/34e18f4a-cbf9-4f25-97e8-b43854883985)
 
-Después ejecute el archivo el git bash
+
+DESPUES EJECUTE EL ARCHIVO EN GIT BASH
 
 ![Screenshot_18](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/1d5dca4d-a608-40ad-9387-5e71945d7f81)
 
-Abrí cmd y lo ejecute en python
+
+ABRI CMD Y LO EJECUTE CON PYTHON.
 
 ![Screenshot_19](https://github.com/paolagatos123/Repoaultimahora/assets/142703027/0a43089b-5837-4900-972c-26239f500147)
 
